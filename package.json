@@ -1,0 +1,14 @@
+{
+  "name": "jdm-cars",
+  "version": "1.0.0",
+  "description": "JDM Cars — Japanese Performance Legends showcase",
+  "source": "index.html",
+  "scripts": {
+    "build": "parcel build",
+    "dev": "parcel",
+    "clean": "rm -rf dist .parcel-cache"
+  },
+  "devDependencies": {
+    "parcel": "^2.13.3"
+  }
+}
