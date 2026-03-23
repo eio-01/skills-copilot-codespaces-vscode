@@ -1,0 +1,10 @@
+# Dependencies
+node_modules/
+
+# Parcel build cache and output
+.parcel-cache/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
